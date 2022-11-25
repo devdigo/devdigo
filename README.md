@@ -1,5 +1,14 @@
-- 👋 olá, Eu sou o Rodrigo Santos
+- 👋 olá, Eu sou o Rodrigo Santos !
+
+- Minhas competências: 👇 
+- Css3 🦄
+- html5 🦄
+- Estou me aprofundando em: 👇
+- Javascript 🦄
+- Wordpress 🦄
+
 - Sejam bem vindos aos meus commits 😊
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-dos-santos-norato-521166214/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
