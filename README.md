@@ -1,12 +1,5 @@
 - 👋 olá, Eu sou o Rodrigo Santos !
 
-- Minhas competências: 👇 
-- Css3 🦄
-- html5 🦄
-- Estou me aprofundando em: 👇
-- Javascript 🦄
-- Wordpress 🦄
-
 - Sejam bem vindos aos meus commits 😊
 
 <div align="center">
@@ -22,7 +15,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
- 
+   
+- Minhas competências: 👇 
+- Css3 🦄
+- html5 🦄
+- Estou me aprofundando em: 👇
+- Javascript 🦄
+- Wordpress 🦄
 
 ![dormrm](https://user-images.githubusercontent.com/107442373/203998334-19b3e06a-2c8e-40df-ba78-1dd1087d19d6.gif)
 
